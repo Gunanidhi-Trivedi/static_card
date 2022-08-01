@@ -1,0 +1,99 @@
+/* body{
+    margin: 0px;
+    background-color: black;
+    height: 100%;
+}
+
+
+.div1{
+    
+    background-color: aliceblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* height: 30vh;
+    width: 40vh; */
+/* }
+*/
+ .icon-cog{
+    color: rgba(139, 130, 201, 0.726);
+} 
+
+html,
+body { height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(100, 100, 100);
+
+}
+.div1 {
+display:block;
+width: 60vh;
+background: #faf9f9;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.div6{
+    width: 100%;
+    display: flex;
+    justify-content:end;
+}
+
+.div2{
+
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+
+}
+.div3{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+
+}
+
+.div3 h1{
+    margin: 0;
+}
+
+
+.div4{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.div5{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+button{
+    /* margin-left: auto;
+    margin-right: auto ; */
+    padding: 12px 27px;
+    border-radius: 5px;
+}
+
+.b1{
+    background: rgb(189, 189, 189);
+
+}
+
+.b2{
+    background: rgb(72, 113, 234);
+    color: #faf9f9;
+}
+
+
+
