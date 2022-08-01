@@ -1,21 +1,5 @@
-/* body{
-    margin: 0px;
-    background-color: black;
-    height: 100%;
-}
 
-
-.div1{
-    
-    background-color: aliceblue;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    /* height: 30vh;
-    width: 40vh; */
-/* }
-*/
- .icon-cog{
+.icon-cog{
     color: rgba(139, 130, 201, 0.726);
 } 
 
@@ -33,6 +17,7 @@ width: 60vh;
 background: #faf9f9;
 padding-left: 10px;
 padding-right: 10px;
+border-radius: 2px;
 }
 
 .div6{
